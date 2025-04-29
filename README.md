@@ -1,10 +1,10 @@
 # DAN Mode Jailbreak
 ---
-🟩 WORKING
+🟥 NOT WORKING
 
-**TESTED ON**
+**FIXED ON**
 
-***DATE : 4/29/25 Time : 9:09 PM DAY : TUESDAY***
+***DATE : 4/29/25 Time : 9:25 PM DAY : TUESDAY***
 ---
 ## Overview
 This project describes how I successfully jailbroke ChatGPT and forced it to enter **DAN Mode** (Do Anything Now) using a single prompt.
